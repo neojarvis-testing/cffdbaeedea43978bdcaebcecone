@@ -5,8 +5,8 @@
     );
 
     -- Insert values into the table
-    INSERT INTO ExampleTable (ID, Name) VALUES (1, 'Alice');
-    INSERT INTO ExampleTable (ID, Name) VALUES (2, 'Bob');
-    INSERT INTO ExampleTable (ID, Name) VALUES (3, 'vasanth');
+    INSERT INTO ExampleTable (ID, Name) VALUES (1, 'vasanth');
+    INSERT INTO ExampleTable (ID, Name) VALUES (2, 'gopi');
+    INSERT INTO ExampleTable (ID, Name) VALUES (3, 'sagala');
 
 -- Select and view all data from the tabl
